@@ -7,7 +7,7 @@ Welcome to the repository for my personal portfolio! This project showcases my w
 - **Modern Design** 🎨 with Tailwind CSS and SASS
 - **Smooth Animations** ✨ powered by Framer Motion
 - **Interactive 3D Models** 🌀 created with Three.js
-- **Blazing Fast** ⚡ using Next.js
+- **Blazing Fast** ⚡ using Next.js 15
 - **Animated 3D Element** 🧬 while scrolling
 - **Vertical Scroll Animations** 🌟
 
@@ -36,7 +36,7 @@ _Add a description for the screenshot here._
 
 Here are the main technologies used in this project:
 
-- **Next.js**
+- **Next.js 15**
   ![Next.js Logo](#)
 
 - **Framer Motion**
