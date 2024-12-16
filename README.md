@@ -66,7 +66,7 @@ Follow these steps to run the project locally:
 2. **Install dependencies**
 
    ```bash
-   cd your-portfolio
+   cd portfolio
    npm install
    ```
 
@@ -98,8 +98,7 @@ If you'd like to contribute, feel free to fork the repo and submit a pull reques
 
 Feel free to reach out to me if you have any questions or feedback!
 
-- Email: your-email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
+- Email: contact@samadov.dev
+- Instagram: [@samadov.dev](https://instagram.com/samadov.dev)
+- LinkedIn: [Your Name](https://linkedin.com/in/jamoliddinsamadov)
 
-# portfolio
