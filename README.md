@@ -1,6 +1,6 @@
 # My Portfolio 🚀
 
-Welcome to the repository for my personal portfolio! This project showcases my work, skills, and creativity as a developer. Explore the code or visit the live site to see it in action. 😊
+This project showcases my work, skills, and creativity as a developer. Explore the code or visit the live site to see it in action. 😊
 
 ## ✨ Features
 
