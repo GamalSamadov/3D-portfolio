@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	--white: #efefef;
+	--white-transparent: hsla(0, 0%, 94%, 0);
+	--grey: #b0b0b0;
+	--grey-transparent: hsla(0, 0%, 69%, 0);
+	--black: #000;
+	--black-transparent: transparent;
+	--blue: #98bfff;
+	--gradient-blue: #8ab6fc69;
+}
+
+*::selection {
+	color: var(--black);
+	background: var(--blue);
+}
+
+/* @font-face {
+	font-family: Respira;
+	src: url(/fonts/Respira-Black.otf) format('otf');
+	font-display: swap;
+	font-weight: 900;
+} */
+
+body {
+	color: var(--white);
+	background-color: var(--black);
+}
+
+#particles canvas {
+	z-index: -10;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
