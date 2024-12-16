@@ -4,7 +4,7 @@ Welcome to the repository for my personal portfolio! This project showcases my w
 
 ## ✨ Features
 
-- **Modern Design** 🎨 with Tailwind CSS
+- **Modern Design** 🎨 with Tailwind CSS and SASS
 - **Smooth Animations** ✨ powered by Framer Motion
 - **Interactive 3D Models** 🌀 created with Three.js
 - **Blazing Fast** ⚡ using Next.js
@@ -44,6 +44,9 @@ Here are the main technologies used in this project:
 
 - **Tailwind CSS**
   ![Tailwind CSS Logo](#)
+  
+- **SASS**
+  ![SASS Logo](#)
 
 - **Three.js**
   ![Three.js Logo](#)
