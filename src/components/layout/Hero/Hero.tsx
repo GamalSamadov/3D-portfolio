@@ -4,7 +4,6 @@ import { MediaLinks } from '@/components/layout/Hero/ui/MediaLinks/MediaLinks'
 import styles from './Hero.module.scss'
 import { links } from './links'
 import { motion } from 'framer-motion'
-
 export default function Hero() {
 	return (
 		<section className={styles.hero}>

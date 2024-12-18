@@ -8,8 +8,6 @@ import Lenis from 'lenis'
 import About from '@/components/layout/About/About'
 import { Leva } from 'leva'
 import { motion, useScroll, useSpring } from 'framer-motion'
-import { useAtomValue } from 'jotai'
-import { inViewAtom } from '@/store/inView'
 
 export default function Home() {
 	useEffect(() => {
@@ -30,10 +28,6 @@ export default function Home() {
 		damping: 30,
 		restDelta: 0.001,
 	})
-
-	const inView = useAtomValue(inViewAtom)
-
-	console.log(inView)
 
 	return (
 		<>

@@ -34,11 +34,6 @@
 body {
 	color: var(--white);
 	background-color: var(--black);
-}
-
-#particles canvas {
-	z-index: -10;
 	height: 100%;
-	width: 100%;
-	position: absolute;
+	overflow: hidden;
 }

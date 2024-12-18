@@ -1,33 +1,64 @@
 'use client'
 
-import { ReactNode, useEffect, useState } from 'react'
-import Particles, { initParticlesEngine } from '@tsparticles/react'
-import { loadSlim } from '@tsparticles/slim'
-import useOptions from './useOptions'
+import { ReactNode } from 'react'
+import styles from './AnimatedParticles.module.scss'
+import { motion, useScroll, useTransform } from 'framer-motion'
 
 interface Props {
 	children: ReactNode
 }
 
 export default function AnimatedParticles({ children }: Props) {
-	const [init, setInit] = useState(false)
-	const options = useOptions()
+	const { scrollYProgress } = useScroll()
 
-	useEffect(() => {
-		initParticlesEngine(async engine => {
-			await loadSlim(engine)
-		}).then(() => {
-			setInit(true)
-		})
-	}, [])
+	const translateYStar1 = useTransform(scrollYProgress, [0, 1], [0, -60])
+	const translateYStar2 = useTransform(scrollYProgress, [0, 1], [0, -120])
+	const translateYStar3 = useTransform(scrollYProgress, [0, 1], [0, -180])
 
-	if (init) {
-		return (
-			<>
-				<Particles id='particles' options={options} />
-				{children}
-			</>
-		)
-	}
-	return <>{children}</>
+	return (
+		<>
+			<div className={styles.particlesBg}>
+				<motion.div
+					className={styles.stars}
+					initial={{ y: 0 }}
+					animate={{ y: -2000 }}
+					transition={{
+						duration: 500,
+						repeat: Infinity,
+						ease: 'linear',
+					}}
+					style={{
+						translateY: translateYStar1,
+					}}
+				/>
+				<motion.div
+					className={styles.stars_2}
+					initial={{ y: 0 }}
+					animate={{ y: -2000 }}
+					transition={{
+						duration: 350,
+						repeat: Infinity,
+						ease: 'linear',
+					}}
+					style={{
+						translateY: translateYStar2,
+					}}
+				/>
+				<motion.div
+					className={styles.stars_3}
+					initial={{ y: 0 }}
+					animate={{ y: -2000 }}
+					transition={{
+						duration: 100,
+						repeat: Infinity,
+						ease: 'linear',
+					}}
+					style={{
+						translateY: translateYStar3,
+					}}
+				/>
+			</div>
+			{children}
+		</>
+	)
 }
