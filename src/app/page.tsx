@@ -8,6 +8,7 @@ import Lenis from 'lenis'
 import About from '@/components/layout/About/About'
 import { Leva } from 'leva'
 import { motion, useScroll, useSpring } from 'framer-motion'
+import Projects from '@/components/layout/Projects/Projects'
 
 export default function Home() {
 	useEffect(() => {
@@ -34,10 +35,11 @@ export default function Home() {
 			<motion.div className={styles.progress_bar} style={{ scaleX }} />
 			<Leva />
 			<div className={styles.bg}></div>
+			<Dna />
 			<main className={styles.main}>
-				<Dna />
 				<Hero />
 				<About />
+				<Projects />
 			</main>
 		</>
 	)

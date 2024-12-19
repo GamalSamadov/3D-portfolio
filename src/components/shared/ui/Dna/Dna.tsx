@@ -26,12 +26,12 @@ export default function Dna() {
 					<PerspectiveCamera makeDefault position={[0, 0, 30]} />
 					<directionalLight
 						color='#98bfff'
-						position={[2, 3, 5]}
+						position={[20, 3, 5]}
 						intensity={300}
 					/>
 					<DnaModel
 						scale={11}
-						position={[-10, -5.4, 10]}
+						position={[-9, -8.4, 12]}
 						rotation={[rotationX, 2.5, 1.1]}
 					/>
 				</Suspense>

@@ -16,20 +16,13 @@
 	--black: #000;
 	--black-transparent: transparent;
 	--blue: #98bfff;
-	--gradient-blue: #8ab6fc69;
+	--gradient-blue: #8ab6fc4e;
 }
 
 *::selection {
 	color: var(--black);
 	background: var(--blue);
 }
-
-/* @font-face {
-	font-family: Respira;
-	src: url(/fonts/Respira-Black.otf) format('otf');
-	font-display: swap;
-	font-weight: 900;
-} */
 
 body {
 	color: var(--white);

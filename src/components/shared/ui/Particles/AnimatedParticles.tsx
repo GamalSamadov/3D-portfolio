@@ -11,9 +11,9 @@ interface Props {
 export default function AnimatedParticles({ children }: Props) {
 	const { scrollYProgress } = useScroll()
 
-	const translateYStar1 = useTransform(scrollYProgress, [0, 1], [0, -60])
-	const translateYStar2 = useTransform(scrollYProgress, [0, 1], [0, -120])
-	const translateYStar3 = useTransform(scrollYProgress, [0, 1], [0, -180])
+	const translateYStar1 = useTransform(scrollYProgress, [0, 1], [0, -200])
+	const translateYStar2 = useTransform(scrollYProgress, [0, 1], [0, -400])
+	const translateYStar3 = useTransform(scrollYProgress, [0, 1], [0, -600])
 
 	return (
 		<>
@@ -23,7 +23,7 @@ export default function AnimatedParticles({ children }: Props) {
 					initial={{ y: 0 }}
 					animate={{ y: -2000 }}
 					transition={{
-						duration: 500,
+						duration: 600,
 						repeat: Infinity,
 						ease: 'linear',
 					}}
@@ -36,7 +36,7 @@ export default function AnimatedParticles({ children }: Props) {
 					initial={{ y: 0 }}
 					animate={{ y: -2000 }}
 					transition={{
-						duration: 350,
+						duration: 400,
 						repeat: Infinity,
 						ease: 'linear',
 					}}
@@ -49,7 +49,7 @@ export default function AnimatedParticles({ children }: Props) {
 					initial={{ y: 0 }}
 					animate={{ y: -2000 }}
 					transition={{
-						duration: 100,
+						duration: 300,
 						repeat: Infinity,
 						ease: 'linear',
 					}}
