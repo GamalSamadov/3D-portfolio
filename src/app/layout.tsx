@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import localFont from 'next/font/local'
-import './globals.css'
+import './globals.scss'
 import AnimatedParticles from '@/components/shared/ui/Particles/AnimatedParticles'
 
 const germanica = localFont({

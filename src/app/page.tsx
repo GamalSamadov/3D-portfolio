@@ -9,6 +9,7 @@ import About from '@/components/layout/About/About'
 import { Leva } from 'leva'
 import { motion, useScroll, useSpring } from 'framer-motion'
 import Projects from '@/components/layout/Projects/Projects'
+import { Contact } from '@/components/layout/Contact/Contact'
 
 export default function Home() {
 	useEffect(() => {
@@ -39,8 +40,9 @@ export default function Home() {
 			<main className={styles.main}>
 				<Hero />
 				<About />
-				<Projects />
 			</main>
+			<Projects />
+			<Contact />
 		</>
 	)
 }
