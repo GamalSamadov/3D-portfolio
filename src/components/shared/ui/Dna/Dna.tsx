@@ -30,8 +30,8 @@ export default function Dna() {
 						intensity={300}
 					/>
 					<DnaModel
-						scale={11}
-						position={[-9, -8.4, 12]}
+						scale={4}
+						position={[7, -3.4, 15]}
 						rotation={[rotationX, 2.5, 1.1]}
 					/>
 				</Suspense>
