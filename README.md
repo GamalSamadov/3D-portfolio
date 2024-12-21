@@ -24,11 +24,11 @@ Check out the live portfolio here!
 
 **Hero:**
 
-<img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/hero.png?raw=true" alt="Hero" width="100" />
+<img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/hero.png?raw=true" alt="Hero" width="800" />
 
 **About:**
 
-<img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/about.png?raw=true" alt="Hero" width="100" />
+<img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/about.png?raw=true" alt="Hero" width="800" />
 
 ---
 
@@ -36,9 +36,9 @@ Check out the live portfolio here!
 
 Here are the main technologies used in this project:
 
-- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/typescript.png?raw=true" alt="Next.js Logo" width="25" /> **Next.js 15**
+- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/typescript.png?raw=true" alt="Next.js Logo" width="25" /> **TypeScript**
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/next.webp?raw=true" alt="Next.js Logo" width="25" /> **Next.js 15**
-- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/threejs.png?raw=true" alt="Three.js Logo" width="25" /> **Three.js**
+- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/three.png?raw=true" alt="Three.js Logo" width="25" /> **Three.js**
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/motion.png?raw=true" alt="Framer Motion Logo" width="25" /> **Framer Motion**
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/tailwindcss.png?raw=true" alt="Tailwind CSS Logo" width="25" /> **Tailwind CSS**
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/sass.png?raw=true" alt="SASS Logo" width="25" /> **SASS**
