@@ -11,14 +11,10 @@ This project showcases my work, skills, and creativity as a developer. Explore t
 - **Animated 3D Element** 🧬 while scrolling
 - **Vertical Scroll Animations** 🌟
 
----
-
 ## 🌐 Live Demo
 
 Check out the live portfolio here!
 [samadov.dev](https://samadov.dev)
-
----
 
 ## 📸 Screenshots
 
@@ -30,8 +26,6 @@ Check out the live portfolio here!
 
 <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/about.png?raw=true" alt="Hero" width="800" />
 
----
-
 ## 🛠️ Technologies Used
 
 Here are the main technologies used in this project:
@@ -42,8 +36,6 @@ Here are the main technologies used in this project:
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/motion.png?raw=true" alt="Framer Motion Logo" width="20" /> **Framer Motion**
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/tailwindcss.png?raw=true" alt="Tailwind CSS Logo" width="20" /> **Tailwind CSS**
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/sass.png?raw=true" alt="SASS Logo" width="20" /> **SASS**
-
----
 
 ## 🚀 Getting Started
 
@@ -72,19 +64,13 @@ Follow these steps to run the project locally:
 
    Navigate to `http://localhost:3000` to view the project.
 
----
-
 ## 💡 Customization
 
 You can customize this portfolio to make it your own! Modify components, update animations, or add new 3D models to make it unique.
 
----
-
 ## 🤝 Contributing
 
 You can fix the repo and submit a pull request if you'd like to contribute. Let's make this project even better together! 🌟
-
----
 
 ## 📫 Contact
 
