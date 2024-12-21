@@ -1,6 +1,6 @@
 # My Portfolio 🚀
 
-This project is designed to showcase the skills, creativity, and technical expertise of any developer.
+This open-source project is designed to showcase the skills, creativity, and technical expertise of any developer.
 
 ## ✨ Features
 
@@ -11,6 +11,12 @@ This project is designed to showcase the skills, creativity, and technical exper
 - **Smooth Scrolling** ✨ Enhanced with Lenis for a smooth scrolling experience.
 - **Animated 3D Element** 🧬 Dynamic visuals that respond to scrolling, creating a memorable user experience.
 - **Horizontal Scroll Animations** 🌟 Adds a unique layer of interactivity to the design.
+
+🚀 Coming Soon:
+1️⃣ ✨ New experience section.
+2️⃣ 📂 More projects showcased.
+3️⃣ 🎬 Smooth on-load animations.
+4️⃣ 🌀 Extra animations for the 3D element.
 
 ## 🌐 Live Demo
 
