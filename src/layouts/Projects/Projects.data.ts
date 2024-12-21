@@ -1,20 +1,20 @@
 export const projects = [
 	{
 		id: 1,
-		title: 'Project 1',
+		title: 'Project Titan',
 		description:
-			'lorem ipsum dolor sit amet asdfsadf asdfasd asdf asdf asdf asdfsdafsdfsdfasasfasfsafsaddsafassadfs',
+			'A real-time inventory platform for quick and easy stock tracking',
 	},
 	{
 		id: 2,
-		title: 'Project 2',
+		title: 'SwiftCart',
 		description:
-			'lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet',
+			'A streamlined e-commerce site offering fast checkouts and simple product management',
 	},
 	{
 		id: 3,
-		title: 'Project 3',
+		title: 'Foodio',
 		description:
-			'lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet',
+			'An app suggesting recipes based on available ingredients with step-by-step cooking guides',
 	},
 ]
