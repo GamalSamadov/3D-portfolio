@@ -36,7 +36,7 @@ export default function Home() {
 			<motion.div className={styles.progress_bar} style={{ scaleX }} />
 			<Leva />
 			<div className={styles.bg}></div>
-			<Dna />
+			<Dna light={false} />
 			<main className={styles.main}>
 				<Hero />
 				<About />
