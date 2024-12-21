@@ -24,11 +24,11 @@ Check out the live portfolio here!
 
 **Hero:**
 
-![Hero](#)
+<img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/hero.png?raw=true" alt="Hero" width="100" />
 
 **About:**
 
-![About](#)
+<img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/about.png?raw=true" alt="Hero" width="100" />
 
 ---
 
