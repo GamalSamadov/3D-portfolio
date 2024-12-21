@@ -13,10 +13,10 @@ This open-source project is designed to showcase the skills, creativity, and tec
 - **Horizontal Scroll Animations** 🌟 Adds a unique layer of interactivity to the design.
 
 🚀 Coming Soon:
-1️⃣ ✨ New experience section.
-2️⃣ 📂 More projects showcased.
-3️⃣ 🎬 Smooth on-load animations.
-4️⃣ 🌀 Extra animations for the 3D element.
+- 1️⃣ ✨ New experience section.
+- 2️⃣ 📂 More projects showcased.
+- 3️⃣ 🎬 Smooth on-load animations.
+- 4️⃣ 🌀 Extra animations for the 3D element.
 
 ## 🌐 Live Demo
 
