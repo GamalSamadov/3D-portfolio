@@ -8,6 +8,7 @@ This project showcases my work, skills, and creativity as a developer. Explore t
 - **Blazing Fast** ⚡ using Next.js 15
 - **Modern Design** 🎨 with Tailwind CSS and SASS
 - **Smooth Animations** ✨ powered by Framer Motion
+- **Smooth Scrolling** ✨ powered by Lenis
 - **Animated 3D Element** 🧬 while scrolling
 - **Horizontal Scroll Animations** 🌟
 
@@ -34,6 +35,7 @@ Here are the main technologies used in this project:
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/next.webp?raw=true" alt="Next.js Logo" width="20" /> **Next.js 15**
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/three.png?raw=true" alt="Three.js Logo" width="20" /> **Three.js**
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/motion.png?raw=true" alt="Framer Motion Logo" width="20" /> **Framer Motion**
+- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/lenis.png?raw=true" alt="Framer Motion Logo" width="20" /> **Lenis**
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/tailwindcss.png?raw=true" alt="Tailwind CSS Logo" width="20" /> **Tailwind CSS**
 - <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/sass.png?raw=true" alt="SASS Logo" width="20" /> **SASS**
 
