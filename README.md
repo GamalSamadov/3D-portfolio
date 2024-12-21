@@ -78,6 +78,6 @@ You can fix the repo and submit a pull request if you'd like to contribute. Let'
 
 Feel free to reach out to me if you have any questions or feedback!
 
-- Email: contact@samadov.dev
+- Email: gamalsamadov@gmail.com
 - Instagram: [@samadov.dev](https://instagram.com/samadov.dev)
 - LinkedIn: [En. Samadov J.](https://linkedin.com/in/gamalsamadov)
