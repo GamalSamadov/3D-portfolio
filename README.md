@@ -33,6 +33,10 @@ Check out the live portfolio here!
 
 <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/about.png?raw=true" alt="Hero" width="800" />
 
+**Get in touch:**
+
+<img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/contact.png?raw=true" alt="Hero" width="800" />
+
 ## 🛠️ Technologies Used
 
 Here are the main technologies used in this project:
