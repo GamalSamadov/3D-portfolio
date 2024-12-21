@@ -1,6 +1,6 @@
 'use client'
 
-import { MediaLinks } from '@/components/layout/Hero/ui/MediaLinks/MediaLinks'
+import { MediaLinks } from '@/components/ui/MediaLinks/MediaLinks'
 import styles from './Hero.module.scss'
 import { links } from './links'
 import { motion } from 'framer-motion'

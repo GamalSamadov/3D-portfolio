@@ -1,7 +1,7 @@
 'use client'
 
 import { motion, useScroll, useSpring, useTransform } from 'framer-motion'
-import { Project } from './Project/Project'
+import { Project } from '@/components/Project/Project'
 import styles from './Projects.module.scss'
 import { useRef } from 'react'
 import { projects } from './Projects.data'
