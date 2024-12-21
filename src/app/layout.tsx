@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import localFont from 'next/font/local'
 import './globals.scss'
 import AnimatedParticles from '@/components/shared/ui/Particles/AnimatedParticles'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 
 const germanica = localFont({
 	src: './fonts/Germanica.ttf',
@@ -61,6 +62,7 @@ export default function RootLayout({
 			<body
 				className={`${germanica.variable} ${slussenCompressedBlack.variable} ${slussenExpendedBlack.variable} ${slussenMedium.variable} ${slussenRegular.variable} ${slussenSemibold.variable} ${slussenBold.variable} antialiased`}
 			>
+				<SpeedInsights />
 				<AnimatedParticles>{children}</AnimatedParticles>
 			</body>
 		</html>
