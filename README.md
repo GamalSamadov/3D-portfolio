@@ -9,7 +9,7 @@ This project showcases my work, skills, and creativity as a developer. Explore t
 - **Modern Design** 🎨 with Tailwind CSS and SASS
 - **Smooth Animations** ✨ powered by Framer Motion
 - **Animated 3D Element** 🧬 while scrolling
-- **Vertical Scroll Animations** 🌟
+- **Horizontal Scroll Animations** 🌟
 
 ## 🌐 Live Demo
 
