@@ -1,6 +1,6 @@
 # My Portfolio 🚀
 
-This project showcases my work, skills, and creativity as a developer. Explore the code or visit the live site to see it in action. 😊
+This project showcases your work, skills, and creativity as a developer. Explore the code or visit the live site to see it in action. 😊
 
 ## ✨ Features
 
