@@ -4,10 +4,10 @@ This project showcases my work, skills, and creativity as a developer. Explore t
 
 ## ✨ Features
 
-- **Modern Design** 🎨 with Tailwind CSS and SASS
-- **Smooth Animations** ✨ powered by Framer Motion
 - **Interactive 3D Models** 🌀 created with Three.js
 - **Blazing Fast** ⚡ using Next.js 15
+- **Modern Design** 🎨 with Tailwind CSS and SASS
+- **Smooth Animations** ✨ powered by Framer Motion
 - **Animated 3D Element** 🧬 while scrolling
 - **Vertical Scroll Animations** 🌟
 
@@ -15,20 +15,20 @@ This project showcases my work, skills, and creativity as a developer. Explore t
 
 ## 🌐 Live Demo
 
-[Check out the live portfolio here!](#)
+Check out the live portfolio here!
+[samadov.dev](https://samadov.dev)
 
 ---
 
 ## 📸 Screenshots
 
-![Screenshot 1](#)  
-_Add a description for the screenshot here._
+**Hero:**
 
-![Screenshot 2](#)  
-_Add a description for the screenshot here._
+![Hero](#)
 
-![Screenshot 3](#)  
-_Add a description for the screenshot here._
+**About:**
+
+![About](#)
 
 ---
 
@@ -36,20 +36,12 @@ _Add a description for the screenshot here._
 
 Here are the main technologies used in this project:
 
-- **Next.js 15**
-  ![Next.js Logo](#)
-
-- **Framer Motion**
-  ![Framer Motion Logo](#)
-
-- **Tailwind CSS**
-  ![Tailwind CSS Logo](#)
-  
-- **SASS**
-  ![SASS Logo](#)
-
-- **Three.js**
-  ![Three.js Logo](#)
+- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/typescript.png?raw=true" alt="Next.js Logo" width="25" /> **Next.js 15**
+- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/next.webp?raw=true" alt="Next.js Logo" width="25" /> **Next.js 15**
+- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/threejs.png?raw=true" alt="Three.js Logo" width="25" /> **Three.js**
+- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/motion.png?raw=true" alt="Framer Motion Logo" width="25" /> **Framer Motion**
+- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/tailwindcss.png?raw=true" alt="Tailwind CSS Logo" width="25" /> **Tailwind CSS**
+- <img src="https://github.com/GamalSamadov/portfolio/blob/main/screenshots/sass.png?raw=true" alt="SASS Logo" width="25" /> **SASS**
 
 ---
 
@@ -84,13 +76,13 @@ Follow these steps to run the project locally:
 
 ## 💡 Customization
 
-You can customize this portfolio to make it your own! Modify components, update animations, or add new 3D models to make it truly unique.
+You can customize this portfolio to make it your own! Modify components, update animations, or add new 3D models to make it unique.
 
 ---
 
 ## 🤝 Contributing
 
-If you'd like to contribute, feel free to fork the repo and submit a pull request. Let's make this project even better together! 🌟
+You can fix the repo and submit a pull request if you'd like to contribute. Let's make this project even better together! 🌟
 
 ---
 
@@ -100,5 +92,4 @@ Feel free to reach out to me if you have any questions or feedback!
 
 - Email: contact@samadov.dev
 - Instagram: [@samadov.dev](https://instagram.com/samadov.dev)
-- LinkedIn: [Your Name](https://linkedin.com/in/jamoliddinsamadov)
-
+- LinkedIn: [En. Samadov J.](https://linkedin.com/in/jamoliddinsamadov)
