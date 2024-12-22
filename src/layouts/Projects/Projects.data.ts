@@ -28,14 +28,14 @@ export const projects = [
 		img: '/projects/Aurora.jpeg',
 	},
 	{
-		id: 4,
+		id: 5,
 		title: 'GreenScape',
 		description:
 			'A plant care tracker that schedules watering, monitors growth, and offers care tips',
 		img: '/projects/GreenScape.jpg',
 	},
 	{
-		id: 5,
+		id: 6,
 		title: 'Eventopia',
 		description:
 			'A straightforward event planner that helps create, share, and manage get-togethers',

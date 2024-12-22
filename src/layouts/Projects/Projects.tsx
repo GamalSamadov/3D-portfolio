@@ -8,8 +8,8 @@ import { projects } from './Projects.data'
 
 export default function Projects() {
 	const [img, setImg] = useState({
-		src: '',
-		alt: '',
+		src: '/',
+		alt: 'img',
 		opacity: 0,
 	})
 
