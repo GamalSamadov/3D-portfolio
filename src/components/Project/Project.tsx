@@ -4,12 +4,11 @@ import styles from './Project.module.scss'
 interface Props {
 	title: string
 	description: string
-	x: number
 }
 
-export function Project({ title, description, x }: Props) {
+export function Project({ title, description }: Props) {
 	return (
-		<motion.div initial={{ x: 0 }} animate={{ x }} className={styles.project}>
+		<motion.div className={styles.project}>
 			<h3>{title}</h3>
 			<p>{description}</p>
 		</motion.div>
