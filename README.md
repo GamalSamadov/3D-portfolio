@@ -2,6 +2,14 @@
 
 This open-source project is designed to showcase the skills, creativity, and technical expertise of any developer.
 
+---
+
+## 🌟 Give Me a Star
+
+If you find this project helpful, please consider **starring** ⭐ this repository — it motivates me to create more content and helps others discover it too!
+
+---
+
 ## ✨ Features
 
 - **Interactive 3D Models** 🌀 Built with Three.js to captivate users with immersive visuals.
