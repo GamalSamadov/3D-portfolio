@@ -1,6 +1,6 @@
-# Developer's Creative Portfolio 🚀
+# 3D Creative Portfolio 🚀
 
-This open-source project is designed to showcase the skills, creativity, and technical expertise of any developer.
+Ignite your personal brand with a blazing-fast that merges slick animations, razor-sharp code, and bold visuals into one interactive stage—built to prove your skills and creativity at a glance.
 
 ---
 
